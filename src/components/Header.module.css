@@ -1,0 +1,17 @@
+.main{
+position:absolute;
+top:0;
+display: flex;
+background-color: blueviolet;
+width: 100%;
+color:white;
+align-items: center;
+padding:1.25rem;
+font-size:xx-large;
+margin:0;
+}
+
+.main .brandText{
+    font-weight: 900;
+    
+}
